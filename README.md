@@ -1,2 +1,2 @@
-# pyhton_ds
+# python_ds
 Usage of different data structres in python
